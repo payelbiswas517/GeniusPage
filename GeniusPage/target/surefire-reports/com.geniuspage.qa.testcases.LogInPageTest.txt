@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.geniuspage.qa.testcases.LogInPageTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 24.356 s - in com.geniuspage.qa.testcases.LogInPageTest

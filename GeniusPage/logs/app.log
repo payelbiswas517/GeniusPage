@@ -1,0 +1,2277 @@
+2020-05-26 18:33:32 DEBUG EditSmartPixelTest:37 - In Setup..
+  2020-05-26 18:33:32 INFO  Base:46 - Selected Browser:chrome
+  2020-05-26 18:33:32 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-26 18:33:32 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-26 18:33:40 INFO  SmartPixelPage:30 - Dashboard landed. com.geniuspage.qa.pages.SmartPixelPage
+  2020-05-26 18:33:40 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-26 18:33:40 DEBUG EditSmartPixelTest:47 - Logging in...
+  2020-05-26 18:33:40 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-26 18:33:40 DEBUG ExcelFileUtility:25 - File Size: 10691
+  2020-05-26 18:33:41 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-26 18:33:41 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-26 18:33:41 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-26 18:33:49 INFO  LogInPage:40 - Login button clicked
+  2020-05-26 18:33:49 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-26 18:33:49 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-26 18:33:57 DEBUG EditSmartPixelTest:57 - Open SmarPixel page
+  2020-05-26 18:33:58 INFO  SmartPixelPage:30 - Dashboard landed. com.geniuspage.qa.pages.SmartPixelPage
+  2020-05-26 18:34:03 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-26 18:34:03 DEBUG ExcelFileUtility:25 - File Size: 10691
+  2020-05-26 18:34:03 INFO  ExcelFileUtility:36 - Sheet Name:EditSmartPixel
+  2020-05-26 18:34:03 DEBUG SmartPixelPage:92 - Pixel Name: Autmation Test2
+
+  2020-05-26 18:34:03 DEBUG SmartPixelPage:96 - Row Name: 138 dlt5 i798o80-9-9 05/26/2020  
+
+  2020-05-26 18:34:03 DEBUG SmartPixelPage:99 - Coumn Name: 138
+  2020-05-26 18:34:03 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:03 DEBUG SmartPixelPage:99 - Coumn Name: dlt5
+  2020-05-26 18:34:03 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:03 DEBUG SmartPixelPage:99 - Coumn Name: i798o80-9-9
+  2020-05-26 18:34:03 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:03 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:34:03 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:03 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:34:03 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:04 DEBUG SmartPixelPage:96 - Row Name: 133 dlt11 44 05/26/2020  
+
+  2020-05-26 18:34:04 DEBUG SmartPixelPage:99 - Coumn Name: 133
+  2020-05-26 18:34:04 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:04 DEBUG SmartPixelPage:99 - Coumn Name: dlt11
+  2020-05-26 18:34:04 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:04 DEBUG SmartPixelPage:99 - Coumn Name: 44
+  2020-05-26 18:34:04 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:04 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:34:04 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:04 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:34:04 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:04 DEBUG SmartPixelPage:96 - Row Name: 132 dlt6 77 05/26/2020  
+
+  2020-05-26 18:34:04 DEBUG SmartPixelPage:99 - Coumn Name: 132
+  2020-05-26 18:34:04 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:04 DEBUG SmartPixelPage:99 - Coumn Name: dlt6
+  2020-05-26 18:34:04 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:04 DEBUG SmartPixelPage:99 - Coumn Name: 77
+  2020-05-26 18:34:04 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:04 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:34:04 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:04 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:34:04 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:04 DEBUG SmartPixelPage:96 - Row Name: 110 Autmation Test2 Test2 05/25/2020  
+
+  2020-05-26 18:34:04 DEBUG SmartPixelPage:99 - Coumn Name: 110
+  2020-05-26 18:34:04 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:04 DEBUG SmartPixelPage:99 - Coumn Name: Autmation Test2
+  2020-05-26 18:34:04 DEBUG SmartPixelPage:101 - Pixel Matched
+  2020-05-26 18:34:05 DEBUG SmartPixelPage:99 - Coumn Name: Test2
+  2020-05-26 18:34:05 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:05 DEBUG SmartPixelPage:99 - Coumn Name: 05/25/2020
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:96 - Row Name: 109 Autmation T Test1 05/26/2020  
+
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:99 - Coumn Name: 109
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:99 - Coumn Name: Autmation T
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:99 - Coumn Name: Test1
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:96 - Row Name: 106 Autmation Test Test111 05/25/2020  
+
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:99 - Coumn Name: 106
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:99 - Coumn Name: Autmation Test
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:99 - Coumn Name: Test111
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:99 - Coumn Name: 05/25/2020
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:96 - Row Name: 85 Smart_Pixel_Test 3 2150434945062404 05/13/2020  
+
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:99 - Coumn Name: 85
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:99 - Coumn Name: Smart_Pixel_Test 3
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:99 - Coumn Name: 2150434945062404
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:99 - Coumn Name: 05/13/2020
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:96 - Row Name: 84 Smart_Pixel_Test2 251760362642401 05/13/2020  
+
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:99 - Coumn Name: 84
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:99 - Coumn Name: Smart_Pixel_Test2
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:99 - Coumn Name: 251760362642401
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:99 - Coumn Name: 05/13/2020
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:34:06 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:11 DEBUG SmartPixelPage:92 - Pixel Name: Autmation T
+
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:96 - Row Name: 138 dlt5 i798o80-9-9 05/26/2020  
+
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:99 - Coumn Name: 138
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:99 - Coumn Name: dlt5
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:99 - Coumn Name: i798o80-9-9
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:96 - Row Name: 133 dlt11 44 05/26/2020  
+
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:99 - Coumn Name: 133
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:99 - Coumn Name: dlt11
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:99 - Coumn Name: 44
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:96 - Row Name: 132 dlt6 77 05/26/2020  
+
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:99 - Coumn Name: 132
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:99 - Coumn Name: dlt6
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:99 - Coumn Name: 77
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:96 - Row Name: 110 Autmation Test2 Test2 05/26/2020  
+
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:99 - Coumn Name: 110
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:99 - Coumn Name: Autmation Test2
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:99 - Coumn Name: Test2
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:96 - Row Name: 109 Autmation T Test1 05/26/2020  
+
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:99 - Coumn Name: 109
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:99 - Coumn Name: Autmation T
+  2020-05-26 18:34:12 DEBUG SmartPixelPage:101 - Pixel Matched
+  2020-05-26 18:34:14 DEBUG SmartPixelPage:99 - Coumn Name: Test1
+  2020-05-26 18:34:14 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:14 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:34:14 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:14 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:34:14 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:14 DEBUG SmartPixelPage:96 - Row Name: 106 Autmation Test Test111 05/25/2020  
+
+  2020-05-26 18:34:14 DEBUG SmartPixelPage:99 - Coumn Name: 106
+  2020-05-26 18:34:14 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:14 DEBUG SmartPixelPage:99 - Coumn Name: Autmation Test
+  2020-05-26 18:34:14 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:14 DEBUG SmartPixelPage:99 - Coumn Name: Test111
+  2020-05-26 18:34:14 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:14 DEBUG SmartPixelPage:99 - Coumn Name: 05/25/2020
+  2020-05-26 18:34:14 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:14 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:34:14 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:14 DEBUG SmartPixelPage:96 - Row Name: 85 Smart_Pixel_Test 3 2150434945062404 05/13/2020  
+
+  2020-05-26 18:34:14 DEBUG SmartPixelPage:99 - Coumn Name: 85
+  2020-05-26 18:34:14 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:14 DEBUG SmartPixelPage:99 - Coumn Name: Smart_Pixel_Test 3
+  2020-05-26 18:34:14 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:14 DEBUG SmartPixelPage:99 - Coumn Name: 2150434945062404
+  2020-05-26 18:34:14 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:14 DEBUG SmartPixelPage:99 - Coumn Name: 05/13/2020
+  2020-05-26 18:34:14 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:14 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:34:15 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:15 DEBUG SmartPixelPage:96 - Row Name: 84 Smart_Pixel_Test2 251760362642401 05/13/2020  
+
+  2020-05-26 18:34:15 DEBUG SmartPixelPage:99 - Coumn Name: 84
+  2020-05-26 18:34:15 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:15 DEBUG SmartPixelPage:99 - Coumn Name: Smart_Pixel_Test2
+  2020-05-26 18:34:15 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:15 DEBUG SmartPixelPage:99 - Coumn Name: 251760362642401
+  2020-05-26 18:34:15 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:15 DEBUG SmartPixelPage:99 - Coumn Name: 05/13/2020
+  2020-05-26 18:34:15 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:15 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:34:15 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:20 DEBUG SmartPixelPage:92 - Pixel Name: dlt5
+
+  2020-05-26 18:34:20 DEBUG SmartPixelPage:96 - Row Name: 138 dlt5 i798o80-9-9 05/26/2020  
+
+  2020-05-26 18:34:20 DEBUG SmartPixelPage:99 - Coumn Name: 138
+  2020-05-26 18:34:20 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:20 DEBUG SmartPixelPage:99 - Coumn Name: dlt5
+  2020-05-26 18:34:20 DEBUG SmartPixelPage:101 - Pixel Matched
+  2020-05-26 18:34:21 DEBUG SmartPixelPage:99 - Coumn Name: i798o80-9-9
+  2020-05-26 18:34:21 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:21 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:34:21 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:21 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:34:21 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:21 DEBUG SmartPixelPage:96 - Row Name: 133 dlt11 44 05/26/2020  
+
+  2020-05-26 18:34:21 DEBUG SmartPixelPage:99 - Coumn Name: 133
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:99 - Coumn Name: dlt11
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:99 - Coumn Name: 44
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:96 - Row Name: 132 dlt6 77 05/26/2020  
+
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:99 - Coumn Name: 132
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:99 - Coumn Name: dlt6
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:99 - Coumn Name: 77
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:96 - Row Name: 110 Autmation Test2 Test2 05/26/2020  
+
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:99 - Coumn Name: 110
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:99 - Coumn Name: Autmation Test2
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:99 - Coumn Name: Test2
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:96 - Row Name: 109 Autmation T Test1 05/26/2020  
+
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:99 - Coumn Name: 109
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:99 - Coumn Name: Autmation T
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:99 - Coumn Name: Test1
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:96 - Row Name: 106 Autmation Test Test111 05/25/2020  
+
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:99 - Coumn Name: 106
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:99 - Coumn Name: Autmation Test
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:99 - Coumn Name: Test111
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:99 - Coumn Name: 05/25/2020
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:96 - Row Name: 85 Smart_Pixel_Test 3 2150434945062404 05/13/2020  
+
+  2020-05-26 18:34:22 DEBUG SmartPixelPage:99 - Coumn Name: 85
+  2020-05-26 18:34:23 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:23 DEBUG SmartPixelPage:99 - Coumn Name: Smart_Pixel_Test 3
+  2020-05-26 18:34:23 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:23 DEBUG SmartPixelPage:99 - Coumn Name: 2150434945062404
+  2020-05-26 18:34:23 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:23 DEBUG SmartPixelPage:99 - Coumn Name: 05/13/2020
+  2020-05-26 18:34:23 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:23 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:34:23 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:23 DEBUG SmartPixelPage:96 - Row Name: 84 Smart_Pixel_Test2 251760362642401 05/13/2020  
+
+  2020-05-26 18:34:23 DEBUG SmartPixelPage:99 - Coumn Name: 84
+  2020-05-26 18:34:23 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:23 DEBUG SmartPixelPage:99 - Coumn Name: Smart_Pixel_Test2
+  2020-05-26 18:34:23 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:23 DEBUG SmartPixelPage:99 - Coumn Name: 251760362642401
+  2020-05-26 18:34:23 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:23 DEBUG SmartPixelPage:99 - Coumn Name: 05/13/2020
+  2020-05-26 18:34:23 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:34:23 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:34:23 DEBUG SmartPixelPage:109 - Not Matched
+  2020-05-26 18:42:16 DEBUG EditSmartPixelTest:37 - In Setup..
+  2020-05-26 18:42:16 INFO  Base:46 - Selected Browser:chrome
+  2020-05-26 18:42:16 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-26 18:42:16 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-26 18:42:23 INFO  SmartPixelPage:30 - Dashboard landed. com.geniuspage.qa.pages.SmartPixelPage
+  2020-05-26 18:42:23 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-26 18:42:23 DEBUG EditSmartPixelTest:47 - Logging in...
+  2020-05-26 18:42:23 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-26 18:42:23 DEBUG ExcelFileUtility:25 - File Size: 10691
+  2020-05-26 18:42:24 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-26 18:42:24 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-26 18:42:24 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-26 18:42:32 INFO  LogInPage:40 - Login button clicked
+  2020-05-26 18:42:32 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-26 18:42:32 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-26 18:42:40 DEBUG EditSmartPixelTest:57 - Open SmarPixel page
+  2020-05-26 18:42:42 INFO  SmartPixelPage:30 - Dashboard landed. com.geniuspage.qa.pages.SmartPixelPage
+  2020-05-26 18:42:47 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-26 18:42:47 DEBUG ExcelFileUtility:25 - File Size: 10691
+  2020-05-26 18:42:47 INFO  ExcelFileUtility:36 - Sheet Name:EditSmartPixel
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:92 - Pixel Name: Autmation Test2
+
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:96 - Row Name: 138 dlt5 i798o80-9-9 05/26/2020  
+
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:99 - Coumn Name: 138
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:99 - Coumn Name: dlt5
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:99 - Coumn Name: i798o80-9-9
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:96 - Row Name: 133 dlt11 44 05/26/2020  
+
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:99 - Coumn Name: 133
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:99 - Coumn Name: dlt11
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:99 - Coumn Name: 44
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:96 - Row Name: 132 dlt6 77 05/26/2020  
+
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:99 - Coumn Name: 132
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:99 - Coumn Name: dlt6
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:99 - Coumn Name: 77
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:96 - Row Name: 110 Autmation Test2 Test2 05/26/2020  
+
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:99 - Coumn Name: 110
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:47 DEBUG SmartPixelPage:99 - Coumn Name: Autmation Test2
+  2020-05-26 18:42:48 DEBUG SmartPixelPage:101 - Pixel Matched
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:99 - Coumn Name: Test2
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:96 - Row Name: 109 Autmation T Test1 05/26/2020  
+
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:99 - Coumn Name: 109
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:99 - Coumn Name: Autmation T
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:99 - Coumn Name: Test1
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:96 - Row Name: 106 Autmation Test Test111 05/25/2020  
+
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:99 - Coumn Name: 106
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:99 - Coumn Name: Autmation Test
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:99 - Coumn Name: Test111
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:99 - Coumn Name: 05/25/2020
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:96 - Row Name: 85 Smart_Pixel_Test 3 2150434945062404 05/13/2020  
+
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:99 - Coumn Name: 85
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:99 - Coumn Name: Smart_Pixel_Test 3
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:99 - Coumn Name: 2150434945062404
+  2020-05-26 18:42:50 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:51 DEBUG SmartPixelPage:99 - Coumn Name: 05/13/2020
+  2020-05-26 18:42:51 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:51 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:42:51 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:51 DEBUG SmartPixelPage:96 - Row Name: 84 Smart_Pixel_Test2 251760362642401 05/13/2020  
+
+  2020-05-26 18:42:51 DEBUG SmartPixelPage:99 - Coumn Name: 84
+  2020-05-26 18:42:51 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:51 DEBUG SmartPixelPage:99 - Coumn Name: Smart_Pixel_Test2
+  2020-05-26 18:42:51 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:51 DEBUG SmartPixelPage:99 - Coumn Name: 251760362642401
+  2020-05-26 18:42:51 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:51 DEBUG SmartPixelPage:99 - Coumn Name: 05/13/2020
+  2020-05-26 18:42:51 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:51 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:42:51 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:92 - Pixel Name: Autmation T
+
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:96 - Row Name: 138 dlt5 i798o80-9-9 05/26/2020  
+
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:99 - Coumn Name: 138
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:99 - Coumn Name: dlt5
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:99 - Coumn Name: i798o80-9-9
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:96 - Row Name: 133 dlt11 44 05/26/2020  
+
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:99 - Coumn Name: 133
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:99 - Coumn Name: dlt11
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:99 - Coumn Name: 44
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:96 - Row Name: 132 dlt6 77 05/26/2020  
+
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:99 - Coumn Name: 132
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:99 - Coumn Name: dlt6
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:99 - Coumn Name: 77
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:96 - Row Name: 110 Autmation Test2 Test2Test1234 05/26/2020  
+
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:99 - Coumn Name: 110
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:99 - Coumn Name: Autmation Test2
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:99 - Coumn Name: Test2Test1234
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:96 - Row Name: 109 Autmation T Test1 05/26/2020  
+
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:99 - Coumn Name: 109
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:99 - Coumn Name: Autmation T
+  2020-05-26 18:42:56 DEBUG SmartPixelPage:101 - Pixel Matched
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:99 - Coumn Name: Test1
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:96 - Row Name: 106 Autmation Test Test111 05/25/2020  
+
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:99 - Coumn Name: 106
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:99 - Coumn Name: Autmation Test
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:99 - Coumn Name: Test111
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:99 - Coumn Name: 05/25/2020
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:96 - Row Name: 85 Smart_Pixel_Test 3 2150434945062404 05/13/2020  
+
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:99 - Coumn Name: 85
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:99 - Coumn Name: Smart_Pixel_Test 3
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:99 - Coumn Name: 2150434945062404
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:99 - Coumn Name: 05/13/2020
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:96 - Row Name: 84 Smart_Pixel_Test2 251760362642401 05/13/2020  
+
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:99 - Coumn Name: 84
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:99 - Coumn Name: Smart_Pixel_Test2
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:42:59 DEBUG SmartPixelPage:99 - Coumn Name: 251760362642401
+  2020-05-26 18:43:00 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:00 DEBUG SmartPixelPage:99 - Coumn Name: 05/13/2020
+  2020-05-26 18:43:00 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:00 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:43:00 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:05 DEBUG SmartPixelPage:92 - Pixel Name: dlt5
+
+  2020-05-26 18:43:05 DEBUG SmartPixelPage:96 - Row Name: 138 dlt5 i798o80-9-9 05/26/2020  
+
+  2020-05-26 18:43:05 DEBUG SmartPixelPage:99 - Coumn Name: 138
+  2020-05-26 18:43:05 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:05 DEBUG SmartPixelPage:99 - Coumn Name: dlt5
+  2020-05-26 18:43:05 DEBUG SmartPixelPage:101 - Pixel Matched
+  2020-05-26 18:43:07 DEBUG SmartPixelPage:99 - Coumn Name: i798o80-9-9
+  2020-05-26 18:43:07 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:07 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:43:07 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:07 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:43:07 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:07 DEBUG SmartPixelPage:96 - Row Name: 133 dlt11 44 05/26/2020  
+
+  2020-05-26 18:43:07 DEBUG SmartPixelPage:99 - Coumn Name: 133
+  2020-05-26 18:43:07 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:07 DEBUG SmartPixelPage:99 - Coumn Name: dlt11
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:99 - Coumn Name: 44
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:96 - Row Name: 132 dlt6 77 05/26/2020  
+
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:99 - Coumn Name: 132
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:99 - Coumn Name: dlt6
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:99 - Coumn Name: 77
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:96 - Row Name: 110 Autmation Test2 Test2Test1234 05/26/2020  
+
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:99 - Coumn Name: 110
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:99 - Coumn Name: Autmation Test2
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:99 - Coumn Name: Test2Test1234
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:96 - Row Name: 109 Autmation TAutmation Test1 Test1 05/26/2020  
+
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:99 - Coumn Name: 109
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:99 - Coumn Name: Autmation TAutmation Test1
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:99 - Coumn Name: Test1
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:96 - Row Name: 106 Autmation Test Test111 05/25/2020  
+
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:99 - Coumn Name: 106
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:99 - Coumn Name: Autmation Test
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:99 - Coumn Name: Test111
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:99 - Coumn Name: 05/25/2020
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:96 - Row Name: 85 Smart_Pixel_Test 3 2150434945062404 05/13/2020  
+
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:99 - Coumn Name: 85
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:99 - Coumn Name: Smart_Pixel_Test 3
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:99 - Coumn Name: 2150434945062404
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:99 - Coumn Name: 05/13/2020
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:43:08 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:09 DEBUG SmartPixelPage:96 - Row Name: 84 Smart_Pixel_Test2 251760362642401 05/13/2020  
+
+  2020-05-26 18:43:09 DEBUG SmartPixelPage:99 - Coumn Name: 84
+  2020-05-26 18:43:09 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:09 DEBUG SmartPixelPage:99 - Coumn Name: Smart_Pixel_Test2
+  2020-05-26 18:43:09 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:09 DEBUG SmartPixelPage:99 - Coumn Name: 251760362642401
+  2020-05-26 18:43:09 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:09 DEBUG SmartPixelPage:99 - Coumn Name: 05/13/2020
+  2020-05-26 18:43:09 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:43:09 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:43:09 DEBUG SmartPixelPage:115 - Not Matched
+  2020-05-26 18:46:50 DEBUG EditSmartPixelTest:37 - In Setup..
+  2020-05-26 18:46:50 INFO  Base:46 - Selected Browser:chrome
+  2020-05-26 18:46:50 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-26 18:46:50 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-26 18:46:58 INFO  SmartPixelPage:30 - Dashboard landed. com.geniuspage.qa.pages.SmartPixelPage
+  2020-05-26 18:46:58 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-26 18:46:58 DEBUG EditSmartPixelTest:47 - Logging in...
+  2020-05-26 18:46:58 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-26 18:46:58 DEBUG ExcelFileUtility:25 - File Size: 10691
+  2020-05-26 18:46:59 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-26 18:46:59 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-26 18:46:59 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-26 18:47:07 INFO  LogInPage:40 - Login button clicked
+  2020-05-26 18:47:07 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-26 18:47:07 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-26 18:47:15 DEBUG EditSmartPixelTest:57 - Open SmarPixel page
+  2020-05-26 18:47:17 INFO  SmartPixelPage:30 - Dashboard landed. com.geniuspage.qa.pages.SmartPixelPage
+  2020-05-26 18:47:22 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-26 18:47:22 DEBUG ExcelFileUtility:25 - File Size: 10691
+  2020-05-26 18:47:22 INFO  ExcelFileUtility:36 - Sheet Name:EditSmartPixel
+  2020-05-26 18:47:22 DEBUG SmartPixelPage:92 - Pixel Name: Autmation Test2
+
+  2020-05-26 18:47:22 DEBUG SmartPixelPage:96 - Row Name: 138 dlt5Test55 i798o80-9-92345.0 05/26/2020  
+
+  2020-05-26 18:47:22 DEBUG SmartPixelPage:99 - Coumn Name: 138
+  2020-05-26 18:47:22 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:99 - Coumn Name: dlt5Test55
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:99 - Coumn Name: i798o80-9-92345.0
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:96 - Row Name: 133 dlt11 44 05/26/2020  
+
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:99 - Coumn Name: 133
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:99 - Coumn Name: dlt11
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:99 - Coumn Name: 44
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:96 - Row Name: 132 dlt6 77 05/26/2020  
+
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:99 - Coumn Name: 132
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:99 - Coumn Name: dlt6
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:99 - Coumn Name: 77
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:96 - Row Name: 110 Autmation Test2 Test2Test1234 05/26/2020  
+
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:99 - Coumn Name: 110
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:99 - Coumn Name: Autmation Test2
+  2020-05-26 18:47:23 DEBUG SmartPixelPage:101 - Pixel Matched
+  2020-05-26 18:47:25 DEBUG SmartPixelPage:99 - Coumn Name: Test2Test1234
+  2020-05-26 18:47:25 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:25 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:47:25 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:25 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:47:25 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:96 - Row Name: 109 Autmation TAutmation Test1 Test1 05/26/2020  
+
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:99 - Coumn Name: 109
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:99 - Coumn Name: Autmation TAutmation Test1
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:99 - Coumn Name: Test1
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:96 - Row Name: 106 Autmation Test Test111 05/25/2020  
+
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:99 - Coumn Name: 106
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:99 - Coumn Name: Autmation Test
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:99 - Coumn Name: Test111
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:99 - Coumn Name: 05/25/2020
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:96 - Row Name: 85 Smart_Pixel_Test 3 2150434945062404 05/13/2020  
+
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:99 - Coumn Name: 85
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:99 - Coumn Name: Smart_Pixel_Test 3
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:99 - Coumn Name: 2150434945062404
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:99 - Coumn Name: 05/13/2020
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:96 - Row Name: 84 Smart_Pixel_Test2 251760362642401 05/13/2020  
+
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:99 - Coumn Name: 84
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:99 - Coumn Name: Smart_Pixel_Test2
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:99 - Coumn Name: 251760362642401
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:99 - Coumn Name: 05/13/2020
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:47:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:31 DEBUG SmartPixelPage:92 - Pixel Name: Autmation T
+
+  2020-05-26 18:47:31 DEBUG SmartPixelPage:96 - Row Name: 138 dlt5Test55 i798o80-9-92345.0 05/26/2020  
+
+  2020-05-26 18:47:31 DEBUG SmartPixelPage:99 - Coumn Name: 138
+  2020-05-26 18:47:31 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:31 DEBUG SmartPixelPage:99 - Coumn Name: dlt5Test55
+  2020-05-26 18:47:31 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:31 DEBUG SmartPixelPage:99 - Coumn Name: i798o80-9-92345.0
+  2020-05-26 18:47:31 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:96 - Row Name: 133 dlt11 44 05/26/2020  
+
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name: 133
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name: dlt11
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name: 44
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:96 - Row Name: 132 dlt6 77 05/26/2020  
+
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name: 132
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name: dlt6
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name: 77
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:96 - Row Name: 110 Autmation Test2 Test1234 05/26/2020  
+
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name: 110
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name: Autmation Test2
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name: Test1234
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:96 - Row Name: 109 Autmation TAutmation Test1 Test1 05/26/2020  
+
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name: 109
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name: Autmation TAutmation Test1
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name: Test1
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:96 - Row Name: 106 Autmation Test Test111 05/25/2020  
+
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name: 106
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name: Autmation Test
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name: Test111
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name: 05/25/2020
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:96 - Row Name: 85 Smart_Pixel_Test 3 2150434945062404 05/13/2020  
+
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name: 85
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name: Smart_Pixel_Test 3
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name: 2150434945062404
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name: 05/13/2020
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:32 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:47:33 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:33 DEBUG SmartPixelPage:96 - Row Name: 84 Smart_Pixel_Test2 251760362642401 05/13/2020  
+
+  2020-05-26 18:47:33 DEBUG SmartPixelPage:99 - Coumn Name: 84
+  2020-05-26 18:47:33 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:33 DEBUG SmartPixelPage:99 - Coumn Name: Smart_Pixel_Test2
+  2020-05-26 18:47:33 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:33 DEBUG SmartPixelPage:99 - Coumn Name: 251760362642401
+  2020-05-26 18:47:33 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:33 DEBUG SmartPixelPage:99 - Coumn Name: 05/13/2020
+  2020-05-26 18:47:33 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:33 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:47:33 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:92 - Pixel Name: dlt5
+
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:96 - Row Name: 138 dlt5Test55 i798o80-9-92345.0 05/26/2020  
+
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:99 - Coumn Name: 138
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:99 - Coumn Name: dlt5Test55
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:99 - Coumn Name: i798o80-9-92345.0
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:96 - Row Name: 133 dlt11 44 05/26/2020  
+
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:99 - Coumn Name: 133
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:99 - Coumn Name: dlt11
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:99 - Coumn Name: 44
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:96 - Row Name: 132 dlt6 77 05/26/2020  
+
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:99 - Coumn Name: 132
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:99 - Coumn Name: dlt6
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:99 - Coumn Name: 77
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:96 - Row Name: 110 Autmation Test2 Test1234 05/26/2020  
+
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:99 - Coumn Name: 110
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:99 - Coumn Name: Autmation Test2
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:99 - Coumn Name: Test1234
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:96 - Row Name: 109 Autmation TAutmation Test1 Test1 05/26/2020  
+
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:99 - Coumn Name: 109
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:99 - Coumn Name: Autmation TAutmation Test1
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:99 - Coumn Name: Test1
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:96 - Row Name: 106 Autmation Test Test111 05/25/2020  
+
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:99 - Coumn Name: 106
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:99 - Coumn Name: Autmation Test
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:99 - Coumn Name: Test111
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:99 - Coumn Name: 05/25/2020
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:47:38 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:39 DEBUG SmartPixelPage:96 - Row Name: 85 Smart_Pixel_Test 3 2150434945062404 05/13/2020  
+
+  2020-05-26 18:47:39 DEBUG SmartPixelPage:99 - Coumn Name: 85
+  2020-05-26 18:47:39 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:39 DEBUG SmartPixelPage:99 - Coumn Name: Smart_Pixel_Test 3
+  2020-05-26 18:47:39 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:39 DEBUG SmartPixelPage:99 - Coumn Name: 2150434945062404
+  2020-05-26 18:47:39 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:39 DEBUG SmartPixelPage:99 - Coumn Name: 05/13/2020
+  2020-05-26 18:47:39 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:39 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:47:39 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:39 DEBUG SmartPixelPage:96 - Row Name: 84 Smart_Pixel_Test2 251760362642401 05/13/2020  
+
+  2020-05-26 18:47:39 DEBUG SmartPixelPage:99 - Coumn Name: 84
+  2020-05-26 18:47:39 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:39 DEBUG SmartPixelPage:99 - Coumn Name: Smart_Pixel_Test2
+  2020-05-26 18:47:39 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:39 DEBUG SmartPixelPage:99 - Coumn Name: 251760362642401
+  2020-05-26 18:47:39 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:39 DEBUG SmartPixelPage:99 - Coumn Name: 05/13/2020
+  2020-05-26 18:47:39 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:47:39 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:47:39 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:53:42 DEBUG EditSmartPixelTest:37 - In Setup..
+  2020-05-26 18:53:42 INFO  Base:46 - Selected Browser:chrome
+  2020-05-26 18:53:42 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-26 18:53:42 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-26 18:53:49 INFO  SmartPixelPage:30 - Dashboard landed. com.geniuspage.qa.pages.SmartPixelPage
+  2020-05-26 18:53:50 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-26 18:53:50 DEBUG EditSmartPixelTest:47 - Logging in...
+  2020-05-26 18:53:50 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-26 18:53:50 DEBUG ExcelFileUtility:25 - File Size: 10716
+  2020-05-26 18:53:50 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-26 18:53:51 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-26 18:53:51 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-26 18:53:58 INFO  LogInPage:40 - Login button clicked
+  2020-05-26 18:53:58 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-26 18:53:58 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-26 18:54:07 DEBUG EditSmartPixelTest:57 - Open SmarPixel page
+  2020-05-26 18:54:08 INFO  SmartPixelPage:30 - Dashboard landed. com.geniuspage.qa.pages.SmartPixelPage
+  2020-05-26 18:54:13 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-26 18:54:13 DEBUG ExcelFileUtility:25 - File Size: 10716
+  2020-05-26 18:54:13 INFO  ExcelFileUtility:36 - Sheet Name:EditSmartPixel
+  2020-05-26 18:54:13 DEBUG SmartPixelPage:92 - Pixel Name: Autmation Test2
+
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:96 - Row Name: 138 dlt5Test55 i798o80-9-92345.0 05/26/2020  
+
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:99 - Coumn Name: 138
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:99 - Coumn Name: dlt5Test55
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:99 - Coumn Name: i798o80-9-92345.0
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:96 - Row Name: 133 dlt11 44 05/26/2020  
+
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:99 - Coumn Name: 133
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:99 - Coumn Name: dlt11
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:99 - Coumn Name: 44
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:96 - Row Name: 132 dlt6 77 05/26/2020  
+
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:99 - Coumn Name: 132
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:99 - Coumn Name: dlt6
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:99 - Coumn Name: 77
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:96 - Row Name: 110 Autmation Test2 Test1234 05/26/2020  
+
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:99 - Coumn Name: 110
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:99 - Coumn Name: Autmation Test2
+  2020-05-26 18:54:14 DEBUG SmartPixelPage:101 - Pixel Matched
+  2020-05-26 18:54:16 DEBUG SmartPixelPage:99 - Coumn Name: Test1234
+  2020-05-26 18:54:16 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:16 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:54:16 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:96 - Row Name: 109 Autmation TAutmation Test1 Test1 05/26/2020  
+
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:99 - Coumn Name: 109
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:99 - Coumn Name: Autmation TAutmation Test1
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:99 - Coumn Name: Test1
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:96 - Row Name: 106 Autmation Test Test111 05/25/2020  
+
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:99 - Coumn Name: 106
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:99 - Coumn Name: Autmation Test
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:99 - Coumn Name: Test111
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:99 - Coumn Name: 05/25/2020
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:96 - Row Name: 85 Smart_Pixel_Test 3 2150434945062404 05/13/2020  
+
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:99 - Coumn Name: 85
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:99 - Coumn Name: Smart_Pixel_Test 3
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:99 - Coumn Name: 2150434945062404
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:99 - Coumn Name: 05/13/2020
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:96 - Row Name: 84 Smart_Pixel_Test2 251760362642401 05/13/2020  
+
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:99 - Coumn Name: 84
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:99 - Coumn Name: Smart_Pixel_Test2
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:99 - Coumn Name: 251760362642401
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:99 - Coumn Name: 05/13/2020
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:54:17 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:22 DEBUG SmartPixelPage:92 - Pixel Name: Autmation TAutmation Test1
+
+  2020-05-26 18:54:22 DEBUG SmartPixelPage:96 - Row Name: 138 dlt5Test55 i798o80-9-92345.0 05/26/2020  
+
+  2020-05-26 18:54:22 DEBUG SmartPixelPage:99 - Coumn Name: 138
+  2020-05-26 18:54:22 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:22 DEBUG SmartPixelPage:99 - Coumn Name: dlt5Test55
+  2020-05-26 18:54:22 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:99 - Coumn Name: i798o80-9-92345.0
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:96 - Row Name: 133 dlt11 44 05/26/2020  
+
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:99 - Coumn Name: 133
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:99 - Coumn Name: dlt11
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:99 - Coumn Name: 44
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:96 - Row Name: 132 dlt6 77 05/26/2020  
+
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:99 - Coumn Name: 132
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:99 - Coumn Name: dlt6
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:99 - Coumn Name: 77
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:96 - Row Name: 110 Autmation Test2 Test12346 05/26/2020  
+
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:99 - Coumn Name: 110
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:99 - Coumn Name: Autmation Test2
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:99 - Coumn Name: Test12346
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:96 - Row Name: 109 Autmation TAutmation Test1 Test1 05/26/2020  
+
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:99 - Coumn Name: 109
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:99 - Coumn Name: Autmation TAutmation Test1
+  2020-05-26 18:54:23 DEBUG SmartPixelPage:101 - Pixel Matched
+  2020-05-26 18:54:25 DEBUG SmartPixelPage:99 - Coumn Name: Test1
+  2020-05-26 18:54:25 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:96 - Row Name: 106 Autmation Test Test111 05/25/2020  
+
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:99 - Coumn Name: 106
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:99 - Coumn Name: Autmation Test
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:99 - Coumn Name: Test111
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:99 - Coumn Name: 05/25/2020
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:96 - Row Name: 85 Smart_Pixel_Test 3 2150434945062404 05/13/2020  
+
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:99 - Coumn Name: 85
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:99 - Coumn Name: Smart_Pixel_Test 3
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:99 - Coumn Name: 2150434945062404
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:99 - Coumn Name: 05/13/2020
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:96 - Row Name: 84 Smart_Pixel_Test2 251760362642401 05/13/2020  
+
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:99 - Coumn Name: 84
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:99 - Coumn Name: Smart_Pixel_Test2
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:99 - Coumn Name: 251760362642401
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:99 - Coumn Name: 05/13/2020
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:54:26 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:31 DEBUG SmartPixelPage:92 - Pixel Name: dlt5Test55
+
+  2020-05-26 18:54:31 DEBUG SmartPixelPage:96 - Row Name: 138 dlt5Test55 i798o80-9-92345.0 05/26/2020  
+
+  2020-05-26 18:54:31 DEBUG SmartPixelPage:99 - Coumn Name: 138
+  2020-05-26 18:54:31 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:31 DEBUG SmartPixelPage:99 - Coumn Name: dlt5Test55
+  2020-05-26 18:54:31 DEBUG SmartPixelPage:101 - Pixel Matched
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:99 - Coumn Name: i798o80-9-92345.0
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:96 - Row Name: 133 dlt11 44 05/26/2020  
+
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:99 - Coumn Name: 133
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:99 - Coumn Name: dlt11
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:99 - Coumn Name: 44
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:96 - Row Name: 132 dlt6 77 05/26/2020  
+
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:99 - Coumn Name: 132
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:99 - Coumn Name: dlt6
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:99 - Coumn Name: 77
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:96 - Row Name: 110 Autmation Test2 Test12346 05/26/2020  
+
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:99 - Coumn Name: 110
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:99 - Coumn Name: Autmation Test2
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:99 - Coumn Name: Test12346
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:96 - Row Name: 109 Autmation Test1 Test1 05/26/2020  
+
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:99 - Coumn Name: 109
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:99 - Coumn Name: Autmation Test1
+  2020-05-26 18:54:34 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:99 - Coumn Name: Test1
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:99 - Coumn Name: 05/26/2020
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:96 - Row Name: 106 Autmation Test Test111 05/25/2020  
+
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:99 - Coumn Name: 106
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:99 - Coumn Name: Autmation Test
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:99 - Coumn Name: Test111
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:99 - Coumn Name: 05/25/2020
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:96 - Row Name: 85 Smart_Pixel_Test 3 2150434945062404 05/13/2020  
+
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:99 - Coumn Name: 85
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:99 - Coumn Name: Smart_Pixel_Test 3
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:99 - Coumn Name: 2150434945062404
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:99 - Coumn Name: 05/13/2020
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:96 - Row Name: 84 Smart_Pixel_Test2 251760362642401 05/13/2020  
+
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:99 - Coumn Name: 84
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:99 - Coumn Name: Smart_Pixel_Test2
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:99 - Coumn Name: 251760362642401
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:99 - Coumn Name: 05/13/2020
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:99 - Coumn Name:  
+  2020-05-26 18:54:35 DEBUG SmartPixelPage:121 - Not Matched
+  2020-05-27 13:13:56 DEBUG SiteSettingTest:33 - In Setup..
+  2020-05-27 13:13:56 INFO  Base:46 - Selected Browser:chrome
+  2020-05-27 13:13:56 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-27 13:13:56 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-27 13:14:16 INFO  SiteSettingsPage:24 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-27 13:14:16 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 13:14:16 DEBUG SiteSettingTest:43 - Logging in...
+  2020-05-27 13:14:16 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 13:14:16 DEBUG ExcelFileUtility:25 - File Size: 11288
+  2020-05-27 13:14:18 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-27 13:14:18 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-27 13:14:18 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-27 13:14:27 INFO  LogInPage:40 - Login button clicked
+  2020-05-27 13:14:27 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-27 13:14:27 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 13:14:35 DEBUG SiteSettingTest:53 - Open SiteSettings page
+  2020-05-27 13:14:35 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 13:14:35 DEBUG ExcelFileUtility:25 - File Size: 11288
+  2020-05-27 13:14:35 INFO  ExcelFileUtility:36 - Sheet Name:SiteName
+  2020-05-27 13:26:47 DEBUG SiteSettingTest:34 - In Setup..
+  2020-05-27 13:26:47 INFO  Base:46 - Selected Browser:chrome
+  2020-05-27 13:26:47 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-27 13:26:47 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-27 13:26:56 INFO  SiteSettingsPage:24 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-27 13:26:56 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 13:26:56 DEBUG SiteSettingTest:44 - Logging in...
+  2020-05-27 13:26:56 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 13:26:56 DEBUG ExcelFileUtility:25 - File Size: 11288
+  2020-05-27 13:26:57 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-27 13:26:57 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-27 13:26:57 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-27 13:27:05 INFO  LogInPage:40 - Login button clicked
+  2020-05-27 13:27:05 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-27 13:27:05 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 13:27:13 DEBUG SiteSettingTest:54 - Open SiteSettings page
+  2020-05-27 13:27:13 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 13:27:13 DEBUG ExcelFileUtility:25 - File Size: 11288
+  2020-05-27 13:27:13 INFO  ExcelFileUtility:36 - Sheet Name:SiteName
+  2020-05-27 13:28:59 DEBUG SiteSettingTest:34 - In Setup..
+  2020-05-27 13:28:59 INFO  Base:46 - Selected Browser:chrome
+  2020-05-27 13:28:59 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-27 13:28:59 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-27 13:29:11 INFO  SiteSettingsPage:24 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-27 13:29:11 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 13:29:11 DEBUG SiteSettingTest:44 - Logging in...
+  2020-05-27 13:29:11 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 13:29:11 DEBUG ExcelFileUtility:25 - File Size: 11288
+  2020-05-27 13:29:11 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-27 13:29:11 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-27 13:29:11 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-27 13:29:19 INFO  LogInPage:40 - Login button clicked
+  2020-05-27 13:29:19 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-27 13:29:19 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 13:29:27 DEBUG SiteSettingTest:54 - Open SiteSettings page
+  2020-05-27 13:29:28 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 13:29:28 DEBUG ExcelFileUtility:25 - File Size: 11288
+  2020-05-27 13:29:28 INFO  ExcelFileUtility:36 - Sheet Name:SiteName
+  2020-05-27 13:32:02 DEBUG SiteSettingTest:34 - In Setup..
+  2020-05-27 13:32:02 INFO  Base:46 - Selected Browser:chrome
+  2020-05-27 13:32:02 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-27 13:32:02 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-27 13:32:14 INFO  SiteSettingsPage:24 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-27 13:32:14 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 13:32:14 DEBUG SiteSettingTest:44 - Logging in...
+  2020-05-27 13:32:14 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 13:32:14 DEBUG ExcelFileUtility:25 - File Size: 11287
+  2020-05-27 13:32:15 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-27 13:32:15 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-27 13:32:15 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-27 13:32:24 INFO  LogInPage:40 - Login button clicked
+  2020-05-27 13:32:24 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-27 13:32:24 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 13:32:32 DEBUG SiteSettingTest:54 - Open SiteSettings page
+  2020-05-27 13:32:32 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 13:32:32 DEBUG ExcelFileUtility:25 - File Size: 11287
+  2020-05-27 13:32:32 INFO  ExcelFileUtility:36 - Sheet Name:SiteName
+  2020-05-27 13:32:32 DEBUG SiteSettingsPage:31 - Smart Pixel Testing Site
+1Page(s)
+Created on: 2020-05-07
+Last edited on:2020-05-13
+  2020-05-27 13:38:17 DEBUG SiteSettingTest:34 - In Setup..
+  2020-05-27 13:38:17 INFO  Base:46 - Selected Browser:chrome
+  2020-05-27 13:38:17 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-27 13:38:17 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-27 13:38:28 INFO  SiteSettingsPage:24 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-27 13:38:28 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 13:38:28 DEBUG SiteSettingTest:44 - Logging in...
+  2020-05-27 13:38:28 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 13:38:28 DEBUG ExcelFileUtility:25 - File Size: 11287
+  2020-05-27 13:38:29 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-27 13:38:29 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-27 13:38:29 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-27 13:38:37 INFO  LogInPage:40 - Login button clicked
+  2020-05-27 13:38:37 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-27 13:38:37 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 13:38:45 DEBUG SiteSettingTest:54 - Open SiteSettings page
+  2020-05-27 13:38:45 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 13:38:45 DEBUG ExcelFileUtility:25 - File Size: 11287
+  2020-05-27 13:38:45 INFO  ExcelFileUtility:36 - Sheet Name:SiteName
+  2020-05-27 13:38:45 DEBUG SiteSettingsPage:32 - 
+  2020-05-27 13:55:09 DEBUG SiteSettingTest:34 - In Setup..
+  2020-05-27 13:55:09 INFO  Base:46 - Selected Browser:chrome
+  2020-05-27 13:55:09 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-27 13:55:09 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-27 13:55:17 INFO  SiteSettingsPage:24 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-27 13:55:17 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 13:55:17 DEBUG SiteSettingTest:44 - Logging in...
+  2020-05-27 13:55:17 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 13:55:17 DEBUG ExcelFileUtility:25 - File Size: 11287
+  2020-05-27 13:55:18 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-27 13:55:18 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-27 13:55:18 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-27 13:55:26 INFO  LogInPage:40 - Login button clicked
+  2020-05-27 13:55:26 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-27 13:55:26 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 13:55:34 DEBUG SiteSettingTest:54 - Open SiteSettings page
+  2020-05-27 13:55:34 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 13:55:34 DEBUG ExcelFileUtility:25 - File Size: 11287
+  2020-05-27 13:55:34 INFO  ExcelFileUtility:36 - Sheet Name:SiteSetting
+  2020-05-27 13:56:41 DEBUG SiteSettingTest:34 - In Setup..
+  2020-05-27 13:56:41 INFO  Base:46 - Selected Browser:chrome
+  2020-05-27 13:56:41 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-27 13:56:41 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-27 13:56:49 INFO  SiteSettingsPage:24 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-27 13:56:49 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 13:56:49 DEBUG SiteSettingTest:44 - Logging in...
+  2020-05-27 13:56:49 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 13:56:49 DEBUG ExcelFileUtility:25 - File Size: 11319
+  2020-05-27 13:56:50 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-27 13:56:50 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-27 13:56:50 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-27 13:56:58 INFO  LogInPage:40 - Login button clicked
+  2020-05-27 13:56:58 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-27 13:56:58 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 13:57:06 DEBUG SiteSettingTest:54 - Open SiteSettings page
+  2020-05-27 13:57:06 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 13:57:06 DEBUG ExcelFileUtility:25 - File Size: 11319
+  2020-05-27 13:57:06 INFO  ExcelFileUtility:36 - Sheet Name:SiteSetting
+  2020-05-27 13:57:06 DEBUG SiteSettingsPage:35 - 
+  2020-05-27 13:58:21 DEBUG SiteSettingTest:34 - In Setup..
+  2020-05-27 13:58:21 INFO  Base:46 - Selected Browser:chrome
+  2020-05-27 13:58:21 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-27 13:58:21 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-27 13:58:28 INFO  SiteSettingsPage:24 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-27 13:58:28 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 13:58:28 DEBUG SiteSettingTest:44 - Logging in...
+  2020-05-27 13:58:28 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 13:58:28 DEBUG ExcelFileUtility:25 - File Size: 11319
+  2020-05-27 13:58:29 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-27 13:58:29 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-27 13:58:29 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-27 13:58:38 INFO  LogInPage:40 - Login button clicked
+  2020-05-27 13:58:38 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-27 13:58:38 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 13:58:46 DEBUG SiteSettingTest:54 - Open SiteSettings page
+  2020-05-27 13:58:46 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 13:58:46 DEBUG ExcelFileUtility:25 - File Size: 11319
+  2020-05-27 13:58:46 INFO  ExcelFileUtility:36 - Sheet Name:SiteSetting
+  2020-05-27 13:58:46 DEBUG SiteSettingsPage:35 - 
+  2020-05-27 14:00:08 DEBUG SiteSettingTest:34 - In Setup..
+  2020-05-27 14:00:08 INFO  Base:46 - Selected Browser:chrome
+  2020-05-27 14:00:08 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-27 14:00:08 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-27 14:00:15 INFO  SiteSettingsPage:24 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-27 14:00:15 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 14:00:15 DEBUG SiteSettingTest:44 - Logging in...
+  2020-05-27 14:00:15 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 14:00:15 DEBUG ExcelFileUtility:25 - File Size: 11319
+  2020-05-27 14:00:16 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-27 14:00:16 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-27 14:00:16 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-27 14:00:24 INFO  LogInPage:40 - Login button clicked
+  2020-05-27 14:00:24 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-27 14:00:24 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 14:00:32 DEBUG SiteSettingTest:54 - Open SiteSettings page
+  2020-05-27 14:00:32 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 14:00:32 DEBUG ExcelFileUtility:25 - File Size: 11319
+  2020-05-27 14:00:32 INFO  ExcelFileUtility:36 - Sheet Name:SiteSetting
+  2020-05-27 14:00:32 DEBUG SiteSettingsPage:35 - 
+  2020-05-27 16:03:07 DEBUG SiteSettingTest:34 - In Setup..
+  2020-05-27 16:03:07 INFO  Base:46 - Selected Browser:chrome
+  2020-05-27 16:03:07 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-27 16:03:07 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-27 16:03:24 INFO  SiteSettingsPage:25 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-27 16:03:24 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 16:03:24 DEBUG SiteSettingTest:44 - Logging in...
+  2020-05-27 16:03:24 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 16:03:24 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 16:03:34 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-27 16:03:34 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-27 16:03:34 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-27 16:03:44 INFO  LogInPage:40 - Login button clicked
+  2020-05-27 16:03:44 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-27 16:03:44 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 16:03:52 DEBUG SiteSettingTest:54 - Open SiteSettings page
+  2020-05-27 16:03:52 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 16:03:52 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 16:03:52 INFO  ExcelFileUtility:36 - Sheet Name:SiteSetting
+  2020-05-27 16:03:53 DEBUG SiteSettingsPage:36 - 
+  2020-05-27 16:14:00 DEBUG SiteSettingTest:34 - In Setup..
+  2020-05-27 16:14:00 INFO  Base:46 - Selected Browser:chrome
+  2020-05-27 16:14:00 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-27 16:14:00 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-27 16:14:15 INFO  SiteSettingsPage:25 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-27 16:14:15 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 16:14:15 DEBUG SiteSettingTest:44 - Logging in...
+  2020-05-27 16:14:15 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 16:14:15 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 16:14:16 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-27 16:14:16 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-27 16:14:16 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-27 16:14:24 INFO  LogInPage:40 - Login button clicked
+  2020-05-27 16:14:24 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-27 16:14:24 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 16:14:32 DEBUG SiteSettingTest:54 - Open SiteSettings page
+  2020-05-27 16:14:32 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 16:14:32 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 16:14:32 INFO  ExcelFileUtility:36 - Sheet Name:SiteSetting
+  2020-05-27 16:14:32 DEBUG SiteSettingsPage:36 - 
+  2020-05-27 16:17:38 DEBUG SiteSettingTest:34 - In Setup..
+  2020-05-27 16:17:38 INFO  Base:46 - Selected Browser:chrome
+  2020-05-27 16:17:38 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-27 16:17:38 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-27 16:17:47 INFO  SiteSettingsPage:25 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-27 16:17:47 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 16:17:47 DEBUG SiteSettingTest:44 - Logging in...
+  2020-05-27 16:17:47 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 16:17:47 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 16:17:48 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-27 16:17:48 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-27 16:17:48 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-27 16:17:56 INFO  LogInPage:40 - Login button clicked
+  2020-05-27 16:17:56 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-27 16:17:56 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 16:18:04 DEBUG SiteSettingTest:54 - Open SiteSettings page
+  2020-05-27 16:18:04 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 16:18:04 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 16:18:04 INFO  ExcelFileUtility:36 - Sheet Name:SiteSetting
+  2020-05-27 16:18:04 DEBUG SiteSettingsPage:36 - 
+  2020-05-27 16:25:37 DEBUG SiteSettingTest:34 - In Setup..
+  2020-05-27 16:25:37 INFO  Base:46 - Selected Browser:chrome
+  2020-05-27 16:25:37 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-27 16:25:37 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-27 16:25:50 INFO  SiteSettingsPage:25 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-27 16:25:50 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 16:25:50 DEBUG SiteSettingTest:44 - Logging in...
+  2020-05-27 16:25:50 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 16:25:50 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 16:25:51 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-27 16:25:51 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-27 16:25:51 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-27 16:26:11 INFO  LogInPage:40 - Login button clicked
+  2020-05-27 16:26:11 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-27 16:26:11 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 16:26:19 DEBUG SiteSettingTest:54 - Open SiteSettings page
+  2020-05-27 16:26:19 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 16:26:19 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 16:26:19 INFO  ExcelFileUtility:36 - Sheet Name:SiteSetting
+  2020-05-27 16:26:19 DEBUG SiteSettingsPage:36 - 
+  2020-05-27 16:27:03 DEBUG SiteSettingTest:34 - In Setup..
+  2020-05-27 16:27:03 INFO  Base:46 - Selected Browser:chrome
+  2020-05-27 16:27:03 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-27 16:27:03 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-27 16:27:10 INFO  SiteSettingsPage:25 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-27 16:27:10 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 16:27:10 DEBUG SiteSettingTest:44 - Logging in...
+  2020-05-27 16:27:10 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 16:27:10 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 16:27:10 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-27 16:27:10 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-27 16:27:10 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-27 16:27:18 INFO  LogInPage:40 - Login button clicked
+  2020-05-27 16:27:18 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-27 16:27:18 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 16:27:26 DEBUG SiteSettingTest:54 - Open SiteSettings page
+  2020-05-27 16:27:27 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 16:27:27 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 16:27:27 INFO  ExcelFileUtility:36 - Sheet Name:SiteSetting
+  2020-05-27 16:27:27 DEBUG SiteSettingsPage:36 - 
+  2020-05-27 16:28:42 DEBUG SiteSettingTest:34 - In Setup..
+  2020-05-27 16:28:42 INFO  Base:46 - Selected Browser:chrome
+  2020-05-27 16:28:42 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-27 16:28:42 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-27 16:28:49 INFO  SiteSettingsPage:25 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-27 16:28:49 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 16:28:49 DEBUG SiteSettingTest:44 - Logging in...
+  2020-05-27 16:28:49 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 16:28:49 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 16:28:49 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-27 16:28:49 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-27 16:28:49 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-27 16:28:57 INFO  LogInPage:40 - Login button clicked
+  2020-05-27 16:28:57 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-27 16:28:57 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 16:29:05 DEBUG SiteSettingTest:54 - Open SiteSettings page
+  2020-05-27 16:29:05 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 16:29:05 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 16:29:05 INFO  ExcelFileUtility:36 - Sheet Name:SiteSetting
+  2020-05-27 16:29:05 DEBUG SiteSettingsPage:36 - 
+  2020-05-27 16:30:16 DEBUG SiteSettingTest:34 - In Setup..
+  2020-05-27 16:30:16 INFO  Base:46 - Selected Browser:chrome
+  2020-05-27 16:30:16 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-27 16:30:16 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-27 16:30:23 INFO  SiteSettingsPage:25 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-27 16:30:23 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 16:30:23 DEBUG SiteSettingTest:44 - Logging in...
+  2020-05-27 16:30:23 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 16:30:23 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 16:30:24 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-27 16:30:24 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-27 16:30:24 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-27 16:30:32 INFO  LogInPage:40 - Login button clicked
+  2020-05-27 16:30:32 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-27 16:30:32 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 16:30:40 DEBUG SiteSettingTest:54 - Open SiteSettings page
+  2020-05-27 16:30:40 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 16:30:40 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 16:30:40 INFO  ExcelFileUtility:36 - Sheet Name:SiteSetting
+  2020-05-27 16:30:40 DEBUG SiteSettingsPage:36 - 
+  2020-05-27 16:36:42 DEBUG SiteSettingTest:34 - In Setup..
+  2020-05-27 16:36:42 INFO  Base:46 - Selected Browser:chrome
+  2020-05-27 16:36:42 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-27 16:36:42 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-27 16:36:50 INFO  SiteSettingsPage:25 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-27 16:36:50 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 16:36:50 DEBUG SiteSettingTest:44 - Logging in...
+  2020-05-27 16:36:50 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 16:36:50 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 16:36:51 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-27 16:36:51 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-27 16:36:51 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-27 16:37:00 INFO  LogInPage:40 - Login button clicked
+  2020-05-27 16:37:00 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-27 16:37:00 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 16:37:08 DEBUG SiteSettingTest:54 - Open SiteSettings page
+  2020-05-27 16:37:08 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 16:37:08 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 16:37:08 INFO  ExcelFileUtility:36 - Sheet Name:SiteSetting
+  2020-05-27 16:37:08 DEBUG SiteSettingsPage:36 - 
+  2020-05-27 16:38:39 DEBUG SiteSettingTest:34 - In Setup..
+  2020-05-27 16:38:39 INFO  Base:46 - Selected Browser:chrome
+  2020-05-27 16:38:39 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-27 16:38:39 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-27 16:38:49 INFO  SiteSettingsPage:25 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-27 16:38:49 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 16:38:49 DEBUG SiteSettingTest:44 - Logging in...
+  2020-05-27 16:38:49 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 16:38:49 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 16:38:50 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-27 16:38:50 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-27 16:38:50 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-27 16:38:58 INFO  LogInPage:40 - Login button clicked
+  2020-05-27 16:38:58 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-27 16:38:58 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 16:39:06 DEBUG SiteSettingTest:54 - Open SiteSettings page
+  2020-05-27 16:39:06 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 16:39:06 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 16:39:06 INFO  ExcelFileUtility:36 - Sheet Name:SiteSetting
+  2020-05-27 16:39:07 DEBUG SiteSettingsPage:36 - 
+  2020-05-27 16:58:28 DEBUG SiteSettingTest:34 - In Setup..
+  2020-05-27 16:58:28 INFO  Base:46 - Selected Browser:chrome
+  2020-05-27 16:58:28 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-27 16:58:28 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-27 16:58:38 INFO  SiteSettingsPage:25 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-27 16:58:38 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 16:58:38 DEBUG SiteSettingTest:44 - Logging in...
+  2020-05-27 16:58:38 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 16:58:38 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 16:58:39 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-27 16:58:39 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-27 16:58:39 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-27 16:58:47 INFO  LogInPage:40 - Login button clicked
+  2020-05-27 16:58:47 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-27 16:58:47 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 16:58:55 DEBUG SiteSettingTest:54 - Open SiteSettings page
+  2020-05-27 16:58:55 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 16:58:55 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 16:58:55 INFO  ExcelFileUtility:36 - Sheet Name:SiteSetting
+  2020-05-27 16:58:55 DEBUG SiteSettingsPage:36 - 
+  2020-05-27 17:05:26 DEBUG SiteSettingTest:34 - In Setup..
+  2020-05-27 17:05:26 INFO  Base:46 - Selected Browser:chrome
+  2020-05-27 17:05:26 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-27 17:05:26 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-27 17:05:35 INFO  SiteSettingsPage:25 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-27 17:05:35 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 17:05:35 DEBUG SiteSettingTest:44 - Logging in...
+  2020-05-27 17:05:35 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 17:05:35 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 17:05:36 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-27 17:05:36 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-27 17:05:36 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-27 17:05:44 INFO  LogInPage:40 - Login button clicked
+  2020-05-27 17:05:44 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-27 17:05:44 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 17:05:52 DEBUG SiteSettingTest:54 - Open SiteSettings page
+  2020-05-27 17:05:52 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 17:05:52 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 17:05:52 INFO  ExcelFileUtility:36 - Sheet Name:SiteSetting
+  2020-05-27 17:05:52 DEBUG SiteSettingsPage:36 - 
+  2020-05-27 17:05:59 ERROR SiteSettingsPage:44 - [Ljava.lang.StackTraceElement;@478ee483
+  2020-05-27 17:24:15 DEBUG SiteSettingTest:34 - In Setup..
+  2020-05-27 17:24:15 INFO  Base:46 - Selected Browser:chrome
+  2020-05-27 17:24:15 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-27 17:24:15 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-27 17:24:23 INFO  SiteSettingsPage:25 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-27 17:24:23 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 17:24:23 DEBUG SiteSettingTest:44 - Logging in...
+  2020-05-27 17:24:23 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 17:24:23 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 17:24:24 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-27 17:24:24 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-27 17:24:24 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-27 17:24:33 INFO  LogInPage:40 - Login button clicked
+  2020-05-27 17:24:33 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-27 17:24:33 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 17:24:41 DEBUG SiteSettingTest:54 - Open SiteSettings page
+  2020-05-27 17:24:41 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 17:24:41 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 17:24:41 INFO  ExcelFileUtility:36 - Sheet Name:SiteSetting
+  2020-05-27 17:24:41 DEBUG SiteSettingsPage:36 - 
+  2020-05-27 17:27:12 DEBUG SiteSettingTest:34 - In Setup..
+  2020-05-27 17:27:12 INFO  Base:46 - Selected Browser:chrome
+  2020-05-27 17:27:12 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-27 17:27:12 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-27 17:27:25 INFO  SiteSettingsPage:25 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-27 17:27:25 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 17:27:25 DEBUG SiteSettingTest:44 - Logging in...
+  2020-05-27 17:27:25 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 17:27:25 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 17:27:25 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-27 17:27:25 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-27 17:27:25 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-27 17:27:34 INFO  LogInPage:40 - Login button clicked
+  2020-05-27 17:27:34 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-27 17:27:34 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 17:27:42 DEBUG SiteSettingTest:54 - Open SiteSettings page
+  2020-05-27 17:27:42 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 17:27:42 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 17:27:42 INFO  ExcelFileUtility:36 - Sheet Name:SiteSetting
+  2020-05-27 17:27:42 DEBUG SiteSettingsPage:36 - 
+  2020-05-27 17:27:44 DEBUG SiteSettingsPage:39 - Choose one or more pixels
+Smart_Pixel_Test2
+Smart_Pixel_Test 3
+Autmation Test
+Autmation Test1
+Autmation Test2
+dlt6
+dlt11
+Test55
+  2020-05-27 17:33:05 DEBUG SiteSettingTest:34 - In Setup..
+  2020-05-27 17:33:05 INFO  Base:46 - Selected Browser:chrome
+  2020-05-27 17:33:05 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-27 17:33:05 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-27 17:33:12 INFO  SiteSettingsPage:27 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-27 17:33:12 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 17:33:12 DEBUG SiteSettingTest:44 - Logging in...
+  2020-05-27 17:33:12 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 17:33:12 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 17:33:13 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-27 17:33:13 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-27 17:33:13 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-27 17:33:21 INFO  LogInPage:40 - Login button clicked
+  2020-05-27 17:33:21 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-27 17:33:21 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 17:33:29 DEBUG SiteSettingTest:54 - Open SiteSettings page
+  2020-05-27 17:33:29 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 17:33:29 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 17:33:29 INFO  ExcelFileUtility:36 - Sheet Name:SiteSetting
+  2020-05-27 17:33:29 DEBUG SiteSettingsPage:38 - 
+  2020-05-27 17:33:31 DEBUG SiteSettingsPage:42 - Choose one or more pixels
+Smart_Pixel_Test2
+Smart_Pixel_Test 3
+Autmation Test
+Autmation Test1
+Autmation Test2
+dlt6
+dlt11
+Test55 ul
+  2020-05-27 17:35:16 DEBUG SiteSettingTest:34 - In Setup..
+  2020-05-27 17:35:16 INFO  Base:46 - Selected Browser:chrome
+  2020-05-27 17:35:16 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-27 17:35:16 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-27 17:35:27 INFO  SiteSettingsPage:27 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-27 17:35:27 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 17:35:27 DEBUG SiteSettingTest:44 - Logging in...
+  2020-05-27 17:35:27 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 17:35:27 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 17:35:28 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-27 17:35:28 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-27 17:35:28 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-27 17:35:37 INFO  LogInPage:40 - Login button clicked
+  2020-05-27 17:35:37 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-27 17:35:37 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 17:35:45 DEBUG SiteSettingTest:54 - Open SiteSettings page
+  2020-05-27 17:35:45 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 17:35:45 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 17:35:45 INFO  ExcelFileUtility:36 - Sheet Name:SiteSetting
+  2020-05-27 17:35:45 DEBUG SiteSettingsPage:38 - 
+  2020-05-27 17:35:47 DEBUG SiteSettingsPage:42 - Choose one or more pixels li
+  2020-05-27 17:35:47 DEBUG SiteSettingsPage:42 - Smart_Pixel_Test2 li
+  2020-05-27 17:35:47 DEBUG SiteSettingsPage:42 - Smart_Pixel_Test 3 li
+  2020-05-27 17:35:47 DEBUG SiteSettingsPage:42 - Autmation Test li
+  2020-05-27 17:35:47 DEBUG SiteSettingsPage:42 - Autmation Test1 li
+  2020-05-27 17:35:47 DEBUG SiteSettingsPage:42 - Autmation Test2 li
+  2020-05-27 17:35:47 DEBUG SiteSettingsPage:42 - dlt6 li
+  2020-05-27 17:35:47 DEBUG SiteSettingsPage:42 - dlt11 li
+  2020-05-27 17:35:47 DEBUG SiteSettingsPage:42 - Test55 li
+  2020-05-27 17:41:22 DEBUG SiteSettingTest:34 - In Setup..
+  2020-05-27 17:41:22 INFO  Base:46 - Selected Browser:chrome
+  2020-05-27 17:41:22 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-27 17:41:22 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-27 17:41:29 INFO  SiteSettingsPage:27 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-27 17:41:29 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 17:41:29 DEBUG SiteSettingTest:44 - Logging in...
+  2020-05-27 17:41:29 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 17:41:29 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 17:41:30 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-27 17:41:30 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-27 17:41:30 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-27 17:41:38 INFO  LogInPage:40 - Login button clicked
+  2020-05-27 17:41:38 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-27 17:41:38 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 17:41:46 DEBUG SiteSettingTest:54 - Open SiteSettings page
+  2020-05-27 17:41:46 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 17:41:46 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 17:41:46 INFO  ExcelFileUtility:36 - Sheet Name:SiteSetting
+  2020-05-27 17:41:46 DEBUG SiteSettingsPage:38 - 
+  2020-05-27 17:41:48 DEBUG SiteSettingsPage:42 - Choose one or more pixels li
+  2020-05-27 17:41:48 DEBUG SiteSettingsPage:42 - Smart_Pixel_Test2 li
+  2020-05-27 17:41:48 DEBUG SiteSettingsPage:42 - Smart_Pixel_Test 3 li
+  2020-05-27 17:41:48 DEBUG SiteSettingsPage:42 - Autmation Test li
+  2020-05-27 17:41:48 DEBUG SiteSettingsPage:42 - Autmation Test1 li
+  2020-05-27 17:41:48 DEBUG SiteSettingsPage:42 - Autmation Test2 li
+  2020-05-27 17:41:48 DEBUG SiteSettingsPage:42 - dlt6 li
+  2020-05-27 17:41:48 DEBUG SiteSettingsPage:42 - dlt11 li
+  2020-05-27 17:41:48 DEBUG SiteSettingsPage:42 - Test55 li
+  2020-05-27 17:43:38 DEBUG SiteSettingTest:34 - In Setup..
+  2020-05-27 17:43:38 INFO  Base:46 - Selected Browser:chrome
+  2020-05-27 17:43:38 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-27 17:43:38 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-27 17:43:45 INFO  SiteSettingsPage:27 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-27 17:43:45 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 17:43:45 DEBUG SiteSettingTest:44 - Logging in...
+  2020-05-27 17:43:45 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 17:43:45 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 17:43:46 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-27 17:43:46 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-27 17:43:46 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-27 17:43:54 INFO  LogInPage:40 - Login button clicked
+  2020-05-27 17:43:54 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-27 17:43:54 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 17:44:02 DEBUG SiteSettingTest:54 - Open SiteSettings page
+  2020-05-27 17:44:02 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 17:44:02 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 17:44:02 INFO  ExcelFileUtility:36 - Sheet Name:SiteSetting
+  2020-05-27 17:44:03 DEBUG SiteSettingsPage:38 - 
+  2020-05-27 17:44:04 DEBUG SiteSettingsPage:42 - Choose one or more pixels li
+  2020-05-27 17:44:04 DEBUG SiteSettingsPage:42 - Smart_Pixel_Test2 li
+  2020-05-27 17:44:04 DEBUG SiteSettingsPage:42 - Smart_Pixel_Test 3 li
+  2020-05-27 17:44:04 DEBUG SiteSettingsPage:42 - Autmation Test li
+  2020-05-27 17:44:04 DEBUG SiteSettingsPage:42 - Autmation Test1 li
+  2020-05-27 17:44:04 DEBUG SiteSettingsPage:42 - Autmation Test2 li
+  2020-05-27 17:44:04 DEBUG SiteSettingsPage:42 - dlt6 li
+  2020-05-27 17:44:04 DEBUG SiteSettingsPage:42 - dlt11 li
+  2020-05-27 17:44:04 DEBUG SiteSettingsPage:42 - Test55 li
+  2020-05-27 17:44:04 DEBUG SiteSettingsPage:44 - Matched...
+  2020-05-27 17:49:03 DEBUG SiteSettingTest:34 - In Setup..
+  2020-05-27 17:49:03 INFO  Base:46 - Selected Browser:chrome
+  2020-05-27 17:49:03 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-27 17:49:03 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-27 17:49:11 INFO  SiteSettingsPage:27 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-27 17:49:11 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 17:49:11 DEBUG SiteSettingTest:44 - Logging in...
+  2020-05-27 17:49:11 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 17:49:11 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 17:49:12 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-27 17:49:12 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-27 17:49:12 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-27 17:49:21 INFO  LogInPage:40 - Login button clicked
+  2020-05-27 17:49:21 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-27 17:49:21 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-27 17:49:29 DEBUG SiteSettingTest:54 - Open SiteSettings page
+  2020-05-27 17:49:29 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-27 17:49:29 DEBUG ExcelFileUtility:25 - File Size: 11327
+  2020-05-27 17:49:29 INFO  ExcelFileUtility:36 - Sheet Name:SiteSetting
+  2020-05-27 17:49:29 DEBUG SiteSettingsPage:41 - 
+  2020-05-27 17:49:30 DEBUG SiteSettingsPage:45 - Choose one or more pixels li
+  2020-05-27 17:49:30 DEBUG SiteSettingsPage:45 - Smart_Pixel_Test2 li
+  2020-05-27 17:49:30 DEBUG SiteSettingsPage:45 - Smart_Pixel_Test 3 li
+  2020-05-27 17:49:30 DEBUG SiteSettingsPage:45 - Autmation Test li
+  2020-05-27 17:49:30 DEBUG SiteSettingsPage:45 - Autmation Test1 li
+  2020-05-27 17:49:30 DEBUG SiteSettingsPage:45 - Autmation Test2 li
+  2020-05-27 17:49:30 DEBUG SiteSettingsPage:45 - dlt6 li
+  2020-05-27 17:49:30 DEBUG SiteSettingsPage:45 - dlt11 li
+  2020-05-27 17:49:30 DEBUG SiteSettingsPage:45 - Test55 li
+  2020-05-27 17:49:30 DEBUG SiteSettingsPage:47 - Matched...
+  2020-05-28 17:12:11 DEBUG PublishSiteTest:36 - In Setup..
+  2020-05-28 17:12:11 INFO  Base:46 - Selected Browser:chrome
+  2020-05-28 17:12:11 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-28 17:12:11 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-28 17:12:28 INFO  SiteSettingsPage:27 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-28 17:12:28 INFO  PublishSitePage:24 - Dashboard landed. com.geniuspage.qa.pages.PublishSitePage
+  2020-05-28 17:12:28 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 17:12:28 DEBUG PublishSiteTest:47 - Logging in...
+  2020-05-28 17:12:28 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 17:12:28 DEBUG ExcelFileUtility:25 - File Size: 11988
+  2020-05-28 17:12:29 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-28 17:12:29 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-28 17:12:29 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-28 17:12:39 INFO  LogInPage:40 - Login button clicked
+  2020-05-28 17:12:39 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-28 17:12:39 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 17:12:44 DEBUG PublishSiteTest:57 - Open SiteSettings page
+  2020-05-28 17:12:44 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 17:12:44 DEBUG ExcelFileUtility:25 - File Size: 11988
+  2020-05-28 17:12:44 INFO  ExcelFileUtility:36 - Sheet Name:PublishSite
+  2020-05-28 17:12:58 ERROR PublishSitePage:52 - [Ljava.lang.StackTraceElement;@52045dbe
+  2020-05-28 17:20:32 DEBUG PublishSiteTest:36 - In Setup..
+  2020-05-28 17:20:32 INFO  Base:46 - Selected Browser:chrome
+  2020-05-28 17:20:32 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-28 17:20:32 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-28 17:20:39 INFO  SiteSettingsPage:27 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-28 17:20:40 INFO  PublishSitePage:24 - Dashboard landed. com.geniuspage.qa.pages.PublishSitePage
+  2020-05-28 17:20:40 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 17:20:40 DEBUG PublishSiteTest:47 - Logging in...
+  2020-05-28 17:20:40 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 17:20:40 DEBUG ExcelFileUtility:25 - File Size: 11988
+  2020-05-28 17:20:40 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-28 17:20:40 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-28 17:20:40 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-28 17:20:48 INFO  LogInPage:40 - Login button clicked
+  2020-05-28 17:20:48 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-28 17:20:48 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 17:20:53 DEBUG PublishSiteTest:57 - Open SiteSettings page
+  2020-05-28 17:20:53 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 17:20:53 DEBUG ExcelFileUtility:25 - File Size: 11988
+  2020-05-28 17:20:53 INFO  ExcelFileUtility:36 - Sheet Name:PublishSite
+  2020-05-28 17:21:07 ERROR PublishSitePage:54 - [Ljava.lang.StackTraceElement;@6cfcd46d
+  2020-05-28 17:23:54 DEBUG PublishSiteTest:36 - In Setup..
+  2020-05-28 17:23:54 INFO  Base:46 - Selected Browser:chrome
+  2020-05-28 17:23:54 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-28 17:23:54 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-28 17:24:00 INFO  SiteSettingsPage:27 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-28 17:24:00 INFO  PublishSitePage:24 - Dashboard landed. com.geniuspage.qa.pages.PublishSitePage
+  2020-05-28 17:24:00 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 17:24:00 DEBUG PublishSiteTest:47 - Logging in...
+  2020-05-28 17:24:00 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 17:24:00 DEBUG ExcelFileUtility:25 - File Size: 11988
+  2020-05-28 17:24:01 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-28 17:24:01 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-28 17:24:01 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-28 17:24:10 INFO  LogInPage:40 - Login button clicked
+  2020-05-28 17:24:10 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-28 17:24:10 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 17:24:15 DEBUG PublishSiteTest:57 - Open SiteSettings page
+  2020-05-28 17:24:15 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 17:24:15 DEBUG ExcelFileUtility:25 - File Size: 11988
+  2020-05-28 17:24:15 INFO  ExcelFileUtility:36 - Sheet Name:PublishSite
+  2020-05-28 17:24:19 ERROR PublishSitePage:54 - [Ljava.lang.StackTraceElement;@34997338
+  2020-05-28 17:35:40 DEBUG PublishSiteTest:36 - In Setup..
+  2020-05-28 17:35:40 INFO  Base:46 - Selected Browser:chrome
+  2020-05-28 17:35:40 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-28 17:35:40 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-28 17:35:46 INFO  SiteSettingsPage:27 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-28 17:35:46 INFO  PublishSitePage:24 - Dashboard landed. com.geniuspage.qa.pages.PublishSitePage
+  2020-05-28 17:35:46 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 17:35:46 DEBUG PublishSiteTest:47 - Logging in...
+  2020-05-28 17:35:46 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 17:35:46 DEBUG ExcelFileUtility:25 - File Size: 11988
+  2020-05-28 17:35:47 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-28 17:35:47 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-28 17:35:47 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-28 17:35:56 INFO  LogInPage:40 - Login button clicked
+  2020-05-28 17:35:56 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-28 17:35:56 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 17:36:01 DEBUG PublishSiteTest:57 - Open SiteSettings page
+  2020-05-28 17:36:01 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 17:36:01 DEBUG ExcelFileUtility:25 - File Size: 11988
+  2020-05-28 17:36:01 INFO  ExcelFileUtility:36 - Sheet Name:PublishSite
+  2020-05-28 17:36:09 DEBUG PublishSitePage:42 - Sort by
+  2020-05-28 17:36:10 ERROR PublishSitePage:53 - [Ljava.lang.StackTraceElement;@328cf0e1
+  2020-05-28 17:37:45 DEBUG PublishSiteTest:36 - In Setup..
+  2020-05-28 17:37:45 INFO  Base:46 - Selected Browser:chrome
+  2020-05-28 17:37:45 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-28 17:37:45 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-28 17:37:51 INFO  SiteSettingsPage:27 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-28 17:37:51 INFO  PublishSitePage:24 - Dashboard landed. com.geniuspage.qa.pages.PublishSitePage
+  2020-05-28 17:37:51 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 17:37:51 DEBUG PublishSiteTest:47 - Logging in...
+  2020-05-28 17:37:51 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 17:37:51 DEBUG ExcelFileUtility:25 - File Size: 11988
+  2020-05-28 17:37:52 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-28 17:37:52 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-28 17:37:52 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-28 17:37:59 INFO  LogInPage:40 - Login button clicked
+  2020-05-28 17:37:59 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-28 17:37:59 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 17:38:04 DEBUG PublishSiteTest:57 - Open SiteSettings page
+  2020-05-28 17:38:04 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 17:38:04 DEBUG ExcelFileUtility:25 - File Size: 11988
+  2020-05-28 17:38:05 INFO  ExcelFileUtility:36 - Sheet Name:PublishSite
+  2020-05-28 17:38:13 DEBUG PublishSitePage:42 - Sort by
+  2020-05-28 17:38:14 ERROR PublishSitePage:53 - [Ljava.lang.StackTraceElement;@328cf0e1
+  2020-05-28 17:39:55 DEBUG PublishSiteTest:36 - In Setup..
+  2020-05-28 17:39:55 INFO  Base:46 - Selected Browser:chrome
+  2020-05-28 17:39:55 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-28 17:39:55 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-28 17:40:01 INFO  SiteSettingsPage:27 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-28 17:40:01 INFO  PublishSitePage:24 - Dashboard landed. com.geniuspage.qa.pages.PublishSitePage
+  2020-05-28 17:40:01 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 17:40:01 DEBUG PublishSiteTest:47 - Logging in...
+  2020-05-28 17:40:01 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 17:40:01 DEBUG ExcelFileUtility:25 - File Size: 11988
+  2020-05-28 17:40:02 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-28 17:40:02 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-28 17:40:02 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-28 17:40:10 INFO  LogInPage:40 - Login button clicked
+  2020-05-28 17:40:10 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-28 17:40:10 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 17:40:15 DEBUG PublishSiteTest:57 - Open SiteSettings page
+  2020-05-28 17:40:15 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 17:40:15 DEBUG ExcelFileUtility:25 - File Size: 11988
+  2020-05-28 17:40:15 INFO  ExcelFileUtility:36 - Sheet Name:PublishSite
+  2020-05-28 17:40:23 DEBUG PublishSitePage:42 - Sort by
+  2020-05-28 17:40:24 ERROR PublishSitePage:53 - [Ljava.lang.StackTraceElement;@328cf0e1
+  2020-05-28 17:54:07 DEBUG PublishSiteTest:36 - In Setup..
+  2020-05-28 17:54:07 INFO  Base:46 - Selected Browser:chrome
+  2020-05-28 17:54:07 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-28 17:54:07 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-28 17:54:17 INFO  SiteSettingsPage:27 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-28 17:54:17 INFO  PublishSitePage:24 - Dashboard landed. com.geniuspage.qa.pages.PublishSitePage
+  2020-05-28 17:54:17 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 17:54:17 DEBUG PublishSiteTest:47 - Logging in...
+  2020-05-28 17:54:17 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 17:54:17 DEBUG ExcelFileUtility:25 - File Size: 11988
+  2020-05-28 17:54:18 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-28 17:54:18 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-28 17:54:18 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-28 17:54:26 INFO  LogInPage:40 - Login button clicked
+  2020-05-28 17:54:26 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-28 17:54:26 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 17:54:31 DEBUG PublishSiteTest:57 - Open SiteSettings page
+  2020-05-28 17:54:31 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 17:54:31 DEBUG ExcelFileUtility:25 - File Size: 11988
+  2020-05-28 17:54:31 INFO  ExcelFileUtility:36 - Sheet Name:PublishSite
+  2020-05-28 17:54:39 DEBUG PublishSitePage:42 - Choose an option
+  2020-05-28 18:04:46 DEBUG PublishSiteTest:36 - In Setup..
+  2020-05-28 18:04:46 INFO  Base:46 - Selected Browser:chrome
+  2020-05-28 18:04:46 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-28 18:04:46 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-28 18:04:58 INFO  SiteSettingsPage:27 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-28 18:04:58 INFO  PublishSitePage:24 - Dashboard landed. com.geniuspage.qa.pages.PublishSitePage
+  2020-05-28 18:04:58 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 18:04:58 DEBUG PublishSiteTest:47 - Logging in...
+  2020-05-28 18:04:58 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 18:04:58 DEBUG ExcelFileUtility:25 - File Size: 11988
+  2020-05-28 18:04:59 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-28 18:04:59 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-28 18:04:59 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-28 18:05:08 INFO  LogInPage:40 - Login button clicked
+  2020-05-28 18:05:08 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-28 18:05:08 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 18:05:13 DEBUG PublishSiteTest:57 - Open SiteSettings page
+  2020-05-28 18:05:13 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 18:05:13 DEBUG ExcelFileUtility:25 - File Size: 11988
+  2020-05-28 18:05:13 INFO  ExcelFileUtility:36 - Sheet Name:PublishSite
+  2020-05-28 18:05:21 DEBUG PublishSitePage:42 - Choose an option
+  2020-05-28 18:11:42 DEBUG PublishSiteTest:36 - In Setup..
+  2020-05-28 18:11:42 INFO  Base:46 - Selected Browser:chrome
+  2020-05-28 18:11:42 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-28 18:11:42 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-28 18:11:49 INFO  SiteSettingsPage:27 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-28 18:11:49 INFO  PublishSitePage:24 - Dashboard landed. com.geniuspage.qa.pages.PublishSitePage
+  2020-05-28 18:11:49 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 18:11:49 DEBUG PublishSiteTest:47 - Logging in...
+  2020-05-28 18:11:49 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 18:11:49 DEBUG ExcelFileUtility:25 - File Size: 11988
+  2020-05-28 18:11:50 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-28 18:11:50 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-28 18:11:50 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-28 18:11:58 INFO  LogInPage:40 - Login button clicked
+  2020-05-28 18:11:58 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-28 18:11:58 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 18:12:03 DEBUG PublishSiteTest:57 - Open SiteSettings page
+  2020-05-28 18:12:03 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 18:12:03 DEBUG ExcelFileUtility:25 - File Size: 11988
+  2020-05-28 18:12:03 INFO  ExcelFileUtility:36 - Sheet Name:PublishSite
+  2020-05-28 18:12:11 DEBUG PublishSitePage:42 - Choose an option
+  2020-05-28 18:14:27 DEBUG PublishSiteTest:36 - In Setup..
+  2020-05-28 18:14:27 INFO  Base:46 - Selected Browser:chrome
+  2020-05-28 18:14:27 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-28 18:14:27 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-28 18:14:34 INFO  SiteSettingsPage:27 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-28 18:14:34 INFO  PublishSitePage:24 - Dashboard landed. com.geniuspage.qa.pages.PublishSitePage
+  2020-05-28 18:14:34 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 18:14:34 DEBUG PublishSiteTest:47 - Logging in...
+  2020-05-28 18:14:34 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 18:14:34 DEBUG ExcelFileUtility:25 - File Size: 11988
+  2020-05-28 18:14:35 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-28 18:14:35 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-28 18:14:35 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-28 18:14:43 INFO  LogInPage:40 - Login button clicked
+  2020-05-28 18:14:43 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-28 18:14:43 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 18:14:48 DEBUG PublishSiteTest:57 - Open SiteSettings page
+  2020-05-28 18:14:48 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 18:14:48 DEBUG ExcelFileUtility:25 - File Size: 11988
+  2020-05-28 18:14:48 INFO  ExcelFileUtility:36 - Sheet Name:PublishSite
+  2020-05-28 18:14:56 DEBUG PublishSitePage:42 - Choose an option
+  2020-05-28 18:14:56 DEBUG PublishSitePage:47 - Choose an option
+  2020-05-28 18:14:56 DEBUG PublishSitePage:47 - Sub folder
+  2020-05-28 18:14:56 ERROR PublishSitePage:55 - [Ljava.lang.StackTraceElement;@531c311e
+  2020-05-28 19:13:14 DEBUG PublishSiteTest:36 - In Setup..
+  2020-05-28 19:13:14 INFO  Base:46 - Selected Browser:chrome
+  2020-05-28 19:13:14 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-28 19:13:14 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-28 19:13:24 INFO  SiteSettingsPage:27 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-28 19:13:24 INFO  PublishSitePage:24 - Dashboard landed. com.geniuspage.qa.pages.PublishSitePage
+  2020-05-28 19:13:24 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 19:13:24 DEBUG PublishSiteTest:47 - Logging in...
+  2020-05-28 19:13:24 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 19:13:24 DEBUG ExcelFileUtility:25 - File Size: 11988
+  2020-05-28 19:13:25 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-28 19:13:25 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-28 19:13:25 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-28 19:13:35 INFO  LogInPage:40 - Login button clicked
+  2020-05-28 19:13:35 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-28 19:13:35 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 19:13:40 DEBUG PublishSiteTest:57 - Open SiteSettings page
+  2020-05-28 19:13:40 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 19:13:40 DEBUG ExcelFileUtility:25 - File Size: 11988
+  2020-05-28 19:13:40 INFO  ExcelFileUtility:36 - Sheet Name:PublishSite
+  2020-05-28 19:13:48 DEBUG PublishSitePage:42 - Choose an option
+  2020-05-28 19:13:49 DEBUG PublishSitePage:47 - Choose an option
+  2020-05-28 19:13:49 DEBUG PublishSitePage:47 - Sub folder
+  2020-05-28 19:13:49 ERROR PublishSitePage:58 - [Ljava.lang.StackTraceElement;@22b53226
+  2020-05-28 19:16:56 DEBUG PublishSiteTest:36 - In Setup..
+  2020-05-28 19:16:56 INFO  Base:46 - Selected Browser:chrome
+  2020-05-28 19:16:56 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-28 19:16:56 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-28 19:17:05 INFO  SiteSettingsPage:27 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-28 19:17:05 INFO  PublishSitePage:24 - Dashboard landed. com.geniuspage.qa.pages.PublishSitePage
+  2020-05-28 19:17:05 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 19:17:05 DEBUG PublishSiteTest:47 - Logging in...
+  2020-05-28 19:17:05 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 19:17:05 DEBUG ExcelFileUtility:25 - File Size: 11988
+  2020-05-28 19:17:05 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-28 19:17:05 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-28 19:17:05 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-28 19:17:13 INFO  LogInPage:40 - Login button clicked
+  2020-05-28 19:17:13 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-28 19:17:13 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 19:17:18 DEBUG PublishSiteTest:57 - Open SiteSettings page
+  2020-05-28 19:17:18 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 19:17:18 DEBUG ExcelFileUtility:25 - File Size: 11988
+  2020-05-28 19:17:18 INFO  ExcelFileUtility:36 - Sheet Name:PublishSite
+  2020-05-28 19:17:26 DEBUG PublishSitePage:42 - Choose an option
+  2020-05-28 19:17:27 DEBUG PublishSitePage:47 - Choose an option
+  2020-05-28 19:17:27 DEBUG PublishSitePage:47 - Sub folder
+  2020-05-28 19:17:27 ERROR PublishSitePage:59 - [Ljava.lang.StackTraceElement;@531c311e
+  2020-05-28 19:18:16 DEBUG PublishSiteTest:36 - In Setup..
+  2020-05-28 19:18:16 INFO  Base:46 - Selected Browser:chrome
+  2020-05-28 19:18:16 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-28 19:18:16 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-28 19:18:28 INFO  SiteSettingsPage:27 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-28 19:18:28 INFO  PublishSitePage:24 - Dashboard landed. com.geniuspage.qa.pages.PublishSitePage
+  2020-05-28 19:18:28 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 19:18:28 DEBUG PublishSiteTest:47 - Logging in...
+  2020-05-28 19:18:28 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 19:18:28 DEBUG ExcelFileUtility:25 - File Size: 11988
+  2020-05-28 19:18:28 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-28 19:18:28 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-28 19:18:28 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-28 19:18:36 INFO  LogInPage:40 - Login button clicked
+  2020-05-28 19:18:36 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-28 19:18:36 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 19:18:41 DEBUG PublishSiteTest:57 - Open SiteSettings page
+  2020-05-28 19:18:41 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 19:18:41 DEBUG ExcelFileUtility:25 - File Size: 11988
+  2020-05-28 19:18:41 INFO  ExcelFileUtility:36 - Sheet Name:PublishSite
+  2020-05-28 19:18:49 DEBUG PublishSitePage:42 - Choose an option
+  2020-05-28 19:18:49 DEBUG PublishSitePage:47 - Choose an option
+  2020-05-28 19:18:49 DEBUG PublishSitePage:47 - Sub folder
+  2020-05-28 19:18:50 ERROR PublishSitePage:59 - [Ljava.lang.StackTraceElement;@531c311e
+  2020-05-28 19:24:15 DEBUG PublishSiteTest:36 - In Setup..
+  2020-05-28 19:24:15 INFO  Base:46 - Selected Browser:chrome
+  2020-05-28 19:24:15 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-28 19:24:15 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-28 19:24:31 INFO  SiteSettingsPage:27 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-28 19:24:31 INFO  PublishSitePage:24 - Dashboard landed. com.geniuspage.qa.pages.PublishSitePage
+  2020-05-28 19:24:31 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 19:24:31 DEBUG PublishSiteTest:47 - Logging in...
+  2020-05-28 19:24:31 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 19:24:31 DEBUG ExcelFileUtility:25 - File Size: 11988
+  2020-05-28 19:24:32 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-28 19:24:32 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-28 19:24:32 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-28 19:24:41 INFO  LogInPage:40 - Login button clicked
+  2020-05-28 19:24:41 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-28 19:24:41 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 19:24:46 DEBUG PublishSiteTest:57 - Open SiteSettings page
+  2020-05-28 19:24:46 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 19:24:46 DEBUG ExcelFileUtility:25 - File Size: 11988
+  2020-05-28 19:24:46 INFO  ExcelFileUtility:36 - Sheet Name:PublishSite
+  2020-05-28 19:24:55 DEBUG PublishSitePage:42 - Choose an option
+  2020-05-28 19:24:55 DEBUG PublishSitePage:47 - Options: Choose an option
+  2020-05-28 19:24:55 DEBUG PublishSitePage:47 - Options: Sub folder
+  2020-05-28 19:24:55 DEBUG PublishSitePage:49 - Selected Option: Sub folder
+  2020-05-28 19:24:55 ERROR PublishSitePage:60 - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=83.0.4103.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PIRATES-PC', ip: '192.168.1.6', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\Pirates\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:64983}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: ebca6d6dda43fa9739a611ed62bf00de
+  2020-05-28 19:30:27 DEBUG PublishSiteTest:36 - In Setup..
+  2020-05-28 19:30:27 INFO  Base:46 - Selected Browser:chrome
+  2020-05-28 19:30:27 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-28 19:30:27 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-28 19:30:37 INFO  SiteSettingsPage:27 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-28 19:30:37 INFO  PublishSitePage:24 - Dashboard landed. com.geniuspage.qa.pages.PublishSitePage
+  2020-05-28 19:30:37 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 19:30:37 DEBUG PublishSiteTest:47 - Logging in...
+  2020-05-28 19:30:37 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 19:30:37 DEBUG ExcelFileUtility:25 - File Size: 11986
+  2020-05-28 19:30:38 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-28 19:30:38 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-28 19:30:38 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-28 19:30:46 INFO  LogInPage:40 - Login button clicked
+  2020-05-28 19:30:46 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-28 19:30:46 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 19:30:51 DEBUG PublishSiteTest:57 - Open SiteSettings page
+  2020-05-28 19:30:51 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 19:30:51 DEBUG ExcelFileUtility:25 - File Size: 11986
+  2020-05-28 19:30:51 INFO  ExcelFileUtility:36 - Sheet Name:PublishSite
+  2020-05-28 19:30:59 DEBUG PublishSitePage:42 - Choose an option
+  2020-05-28 19:30:59 DEBUG PublishSitePage:47 - Options: Choose an option
+  2020-05-28 19:30:59 DEBUG PublishSitePage:47 - Options: Sub folder
+  2020-05-28 19:30:59 DEBUG PublishSitePage:47 - Options: Sub domain
+  2020-05-28 19:30:59 DEBUG PublishSitePage:49 - Selected Option: Sub domain
+  2020-05-28 19:31:00 ERROR PublishSitePage:60 - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=83.0.4103.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PIRATES-PC', ip: '192.168.1.6', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.61, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\Pirates\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:65350}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 904a26c32ad5de13c22c6d3f843b5fba
+  2020-05-28 19:36:26 DEBUG PublishSiteTest:36 - In Setup..
+  2020-05-28 19:36:26 INFO  Base:46 - Selected Browser:chrome
+  2020-05-28 19:36:26 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-28 19:36:26 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-28 19:36:39 INFO  SiteSettingsPage:27 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-28 19:36:39 INFO  PublishSitePage:24 - Dashboard landed. com.geniuspage.qa.pages.PublishSitePage
+  2020-05-28 19:36:39 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 19:36:39 DEBUG PublishSiteTest:47 - Logging in...
+  2020-05-28 19:36:39 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 19:36:39 DEBUG ExcelFileUtility:25 - File Size: 11986
+  2020-05-28 19:36:40 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-28 19:36:40 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-28 19:36:40 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-28 19:36:48 INFO  LogInPage:40 - Login button clicked
+  2020-05-28 19:36:48 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-28 19:36:48 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 19:36:53 DEBUG PublishSiteTest:57 - Open SiteSettings page
+  2020-05-28 19:36:53 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 19:36:53 DEBUG ExcelFileUtility:25 - File Size: 11986
+  2020-05-28 19:36:53 INFO  ExcelFileUtility:36 - Sheet Name:PublishSite
+  2020-05-28 19:37:01 DEBUG PublishSitePage:42 - Choose an option
+  2020-05-28 19:37:02 DEBUG PublishSitePage:47 - Options: Choose an option
+  2020-05-28 19:37:02 ERROR PublishSitePage:63 - java.lang.NullPointerException
+  2020-05-28 19:51:40 DEBUG PublishSiteTest:36 - In Setup..
+  2020-05-28 19:51:40 INFO  Base:46 - Selected Browser:chrome
+  2020-05-28 19:51:40 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-28 19:51:40 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-28 19:51:48 INFO  SiteSettingsPage:27 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-28 19:51:48 INFO  PublishSitePage:24 - Dashboard landed. com.geniuspage.qa.pages.PublishSitePage
+  2020-05-28 19:51:48 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 19:51:48 DEBUG PublishSiteTest:47 - Logging in...
+  2020-05-28 19:51:48 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 19:51:48 DEBUG ExcelFileUtility:25 - File Size: 11986
+  2020-05-28 19:51:49 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-28 19:51:49 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-28 19:51:49 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-28 19:51:56 INFO  LogInPage:40 - Login button clicked
+  2020-05-28 19:51:56 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-28 19:51:56 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 19:52:01 DEBUG PublishSiteTest:57 - Open SiteSettings page
+  2020-05-28 19:52:01 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 19:52:01 DEBUG ExcelFileUtility:25 - File Size: 11986
+  2020-05-28 19:52:02 INFO  ExcelFileUtility:36 - Sheet Name:PublishSite
+  2020-05-28 19:52:10 DEBUG PublishSitePage:42 - Choose an option
+  2020-05-28 19:52:10 DEBUG PublishSitePage:47 - Options: Choose an option
+  2020-05-28 19:52:10 DEBUG PublishSitePage:47 - Options: Sub folder
+  2020-05-28 19:52:11 DEBUG PublishSitePage:47 - Options: Sub domain
+  2020-05-28 19:53:24 DEBUG PublishSiteTest:36 - In Setup..
+  2020-05-28 19:53:24 INFO  Base:46 - Selected Browser:chrome
+  2020-05-28 19:53:24 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-28 19:53:24 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-28 19:53:30 INFO  SiteSettingsPage:27 - Dashboard landed. com.geniuspage.qa.pages.SiteSettingsPage
+  2020-05-28 19:53:30 INFO  PublishSitePage:24 - Dashboard landed. com.geniuspage.qa.pages.PublishSitePage
+  2020-05-28 19:53:30 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 19:53:30 DEBUG PublishSiteTest:47 - Logging in...
+  2020-05-28 19:53:30 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 19:53:30 DEBUG ExcelFileUtility:25 - File Size: 11986
+  2020-05-28 19:53:31 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-28 19:53:31 DEBUG GlobalUtility:69 - 1Credentials found
+  2020-05-28 19:53:31 DEBUG LogInPage:34 - Login credential: payel.biswas@tier5.in/!Aworker2#
+  2020-05-28 19:53:40 INFO  LogInPage:40 - Login button clicked
+  2020-05-28 19:53:40 INFO  LogInPage:45 - Riderecting to dashboard page
+  2020-05-28 19:53:40 DEBUG HomePage:17 - Dashboard landed. com.geniuspage.qa.pages.HomePage
+  2020-05-28 19:53:45 DEBUG PublishSiteTest:57 - Open SiteSettings page
+  2020-05-28 19:53:45 INFO  ExcelFileUtility:23 - Test Data File Path: E:/JavaWorkSpace/GeniusPage/TestData/GeniusPage.xlsx
+  2020-05-28 19:53:45 DEBUG ExcelFileUtility:25 - File Size: 11986
+  2020-05-28 19:53:45 INFO  ExcelFileUtility:36 - Sheet Name:PublishSite
+  2020-05-28 19:53:53 DEBUG PublishSitePage:42 - Choose an option
+  2020-05-28 19:53:53 DEBUG PublishSitePage:47 - Options: Choose an option
+  2020-05-28 19:53:54 DEBUG PublishSitePage:47 - Options: Sub folder
+  2020-05-28 19:53:54 DEBUG PublishSitePage:47 - Options: Sub domain
+  

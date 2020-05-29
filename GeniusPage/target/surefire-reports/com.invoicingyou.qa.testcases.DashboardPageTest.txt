@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.invoicingyou.qa.testcases.DashboardPageTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 30.826 s - in com.invoicingyou.qa.testcases.DashboardPageTest

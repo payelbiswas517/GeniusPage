@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11435" started-at="2020-04-28T11:37:00Z" finished-at="2020-04-28T11:37:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11435" started-at="2020-04-28T11:37:00Z" finished-at="2020-04-28T11:37:11Z">
+      <class name="com.invoicingyou.qa.testcases.DashboardPageTest">
+        <test-method status="PASS" signature="TestLogIn()[pri:0, instance:com.invoicingyou.qa.testcases.DashboardPageTest@52f27fbd]" name="TestLogIn" duration-ms="6227" started-at="2020-04-28T17:07:00Z" finished-at="2020-04-28T17:07:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogIn -->
+        <test-method status="PASS" signature="OpenCustomerPage()[pri:0, instance:com.invoicingyou.qa.testcases.DashboardPageTest@52f27fbd]" name="OpenCustomerPage" duration-ms="5177" started-at="2020-04-28T17:07:06Z" finished-at="2020-04-28T17:07:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenCustomerPage -->
+      </class> <!-- com.invoicingyou.qa.testcases.DashboardPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
